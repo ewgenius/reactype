@@ -1,3 +1,3 @@
 # Create React-Typescript App
 
-Create React apps with no build configuration.
+Create React-Typescript apps with no build configuration.
